@@ -1,6 +1,6 @@
 ul, li {
     list-style: none;
-    
+
 }
 .Math {
     display: inline;
@@ -49,5 +49,7 @@ ul, li {
 }
 
 .Zar-litr {
+    display: inline;
     color: indigo;
+    background-color: antiquewhite;
 }
