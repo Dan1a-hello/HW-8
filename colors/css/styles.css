@@ -1,0 +1,23 @@
+.text-box h3 {
+    color: pink;
+}
+
+.text-box h3:last-of-type {
+    color: inherit;
+}
+
+#greycol {
+    color: grey;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.text-box div p {
+    color: red;
+}
+
+.text-box p:nth-last-of-type(2) {
+    color: green;
+}
